@@ -9,6 +9,9 @@ Datetime | zone_load_MW | tmpf | hour | month | dayofweek
 -------- | -------------| ---- | ---- | ----- | --------
 2004-10-02 00:00:00 | 13147.0 | 69.08 | 0 | 10 | 2 
 
+![oiltrend](plots/oil_trend.png)
+![product_rank](plots/product_rank.png)
+![sales_trend](plots/sales_trend.png)
 
 # Goals
 
